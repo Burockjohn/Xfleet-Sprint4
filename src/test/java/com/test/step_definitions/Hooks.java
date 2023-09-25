@@ -1,11 +1,12 @@
-package com.cydeo.step_definitions;
+package com.test.step_definitions;
 
 /*
 In the class we will be able to pass pre- & post- conditions to
  each scenario and each step
 */
 
-import com.cydeo.utilites.Driver;
+
+import com.test.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
